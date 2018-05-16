@@ -1,4 +1,8 @@
+#!/usr/bin/python
 # -*- coding: latin-1 -*-
+# morsegen - A small morse code generator/translator
+# @author CuPcakeN1njA
+
 
 import sys
 index = "abcdefghijklmnopqrstuvwxyz"
