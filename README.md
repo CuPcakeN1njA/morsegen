@@ -6,7 +6,7 @@ Simple morse code generator, takes your input and converts it to a morse code st
 
 Enter what ever you want and it will return your input as morse.
 
-This program does not inerpret symbols or numbers.
+This program does not interpret symbols or numbers.
 
 ## Info
 - Three spaces means there is a new character
